@@ -1,0 +1,18 @@
+abstract: The populations of neurons in the spinal cord are critical for generating
+  innate and conscious behaviors that enable animals to explore the environment, search
+  for food, escape predators, and adapt to difficult situations. We have developed,
+  and will continue to develop, advanced genetic approaches to target specific populations
+  of neurons in the spinal cord and sensory ganglia and to study their function under
+  physiological conditions and in disease. Understanding the role of each neuron type
+  in sensory perception and motor execution during ethologically relevant behaviors
+  is crucial to identify the causes of disease onset and its prognosis. This knowledge
+  will be fundamental to identify the pathways needed to promote motor and sensory
+  recovery in patients with neurodegenerative diseases or spinal cord injuries and
+  to avoid the occurrence of side effects such as chronic pain, itching or spasticity.
+authors:
+- {family-names: Gatto, given-names: Graziana}
+- {family-names: Campos Maçãs, given-names: Sandrina}
+- {family-names: Galvão, given-names: Ana Catarina}
+cff-version: 1.2.0
+message: Generated with data scraped from crc1451.uni-koeln.de
+title: 'JRG: Sensorimotor ADAPtation'
